@@ -1,4 +1,4 @@
-#Image Denoising <br>
+<h2>Image Denoising</h2> <br>
 
 This repository contains an encoder-decoder model which is used for image denoising task. <br>
 
